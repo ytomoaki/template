@@ -3,6 +3,7 @@
 /**
  * Class csv
  *
+ * CSVの操作に関係する機能テンプレート
  */
 class csv
 {
